@@ -29,7 +29,6 @@ int main()
 {
     string hash;
     string hashes[8];
-    thread::id id;
     thread thread_array[8];
     ifstream MyFile;
     int x =0;
